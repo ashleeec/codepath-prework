@@ -43,3 +43,19 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## App Brainstorming
+ 3-5 applications and 2-3 features per app
+ Beli
+    - being able to see friend's recently dined at restaurants
+    - having the list of restaurants i've eaten at categorized by city
+    
+Duolingo
+    - fun animations for extending your streak
+    - app icon changes every so often
+    
+Slack
+    - custom notification sound
+    - being able to snooze notifications based on time of day
+ 
+ app idea: I want to build an app that helps with panic attacks by initiating a breathing sequence. In the future, I'd like to connect it with apple watch data to be able to track heart rate and metrics while a panic attack is happening. Finally, the app is whale themed and really cute.
